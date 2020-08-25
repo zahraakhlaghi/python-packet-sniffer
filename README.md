@@ -11,6 +11,11 @@ This can be done with the following command in the Linux operating system
 The code saves the data in the form of <b>pcap</b> as soon as it is executed
 
 
+
+ARP:
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/arp.png" />
+
+
 ARP:
 <image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/arp.png" />
 
