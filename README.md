@@ -11,21 +11,25 @@ This can be done with the following command in the Linux operating system
 The code saves the data in the form of <b>pcap</b> as soon as it is executed
 
 ARP:
-<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/arp.png"/>
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/arp.png" />
+
 
 ICMP:
-<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/icmp.png"/>
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/icmp.png" />
 
 
 TCP:
-<image src = "https://github.com/zahraakhlaghi/python-packet-sniffer/blob/master/images/tcp.png?raw=true"/>
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/tcp.png" />
+
 
 HTTP:
-<image src = https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/http.png"/>
-                                                                                                          
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/http.png" />
+   
+   
 UDP:
-<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/udp.png"/>
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/udp.png" />
+
 
 DNS:
-<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/dns.png"/>
+<image src = "https://raw.githubusercontent.com/zahraakhlaghi/python-packet-sniffer/master/images/dns.png" />
                                                                                                           
